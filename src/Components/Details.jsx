@@ -189,11 +189,7 @@ export const Details = () => {
           </Box>
         </Flex>
       </Box>
-      <Box position="fixed" top={4} right={4}>
-        <Button as={Link} href="/bookmarks" colorScheme="teal">
-          Go to Bookmarks
-        </Button>
-      </Box>
+      
     </Center>
   );
 };
